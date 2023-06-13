@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning something like Terraform, Bash, Python, ...
 <!--
 **tamnguyent97/tamnguyent97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
